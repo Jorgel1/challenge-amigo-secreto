@@ -14,6 +14,7 @@ function adicionarAmigo() {
         amigo.value = '';
     }
 
+    listarAmigos(amigos);
 }
 
 function listarAmigos(listadeAmigos) {
