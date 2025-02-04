@@ -12,7 +12,7 @@
 
 
 # Apresentação
-![Apresentação Resumida](assets/Read-me.jpg)
+![Apresentação Resumida](assets/Read-me.JPG)
 
 # Descrição
 <p>Projeto criado em Jan/2025, como fruto de aprendizado em programação JavaScript disponibilizado pelo Projeto ONE (Oracle + Alura).</p>
@@ -25,7 +25,7 @@
 <p>Contudo, algumas melhorias podem ser aplicadas, de maneira a gerar uma lista entre os amigos cadastrados (e não apenas 1 nome), permitindo assim que seja utilizada em vários eventos/momentos.</p>
 
 # Funcionalidades
-![Apresentação da Tela](assets/tela.jpg)
+![Apresentação da Tela](assets/tela.JPG)
 <p></p>
 <p>Esta ferramenta possui uma única tela (ver acima), onde destacamos:</p>
 <p>A: Campo para ser informado/digitado cada um dos nomes das pessoas indicadas.</p>
@@ -34,14 +34,14 @@
 <p></p>
 
 # Cadastrando
-![Tela de Cadastro](assets/telacadastro.jpg)
+![Tela de Cadastro](assets/telacadastro.JPG)
 <p></p>
 <p>Utilizando o campo "A" indicado na tela anterior, digite/informe um nome e em seguida clique no botão [Adicionar].</p>
 <p>O nome será listado logo abaixo do campo "A".</p>
 <p></p>
 <p>Após clicar no botão [Adicionar] o nome será apresetnado conforme exemplificado na tela abaixo e o campo estará disponível para o próximo nome.</p>
 
-![Tela de Cadastro](assets/telaproximocadastro.jpg)
+![Tela de Cadastro](assets/telaproximocadastro.JPG)
 
 # Tecnologias
 <p>No repositório serão encontrados arquivos correspondentes a HTML, CSS e JavaScript.</p>
